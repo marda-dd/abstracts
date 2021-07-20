@@ -34,6 +34,8 @@ scheme](https://en.m.wikipedia.org/wiki/Inside%E2%80%93outside%E2%80%93beginning
 multi-token entities. B- means beginning, I- means inside, O means outside. So, for example, B-MAT
 followed by I-MAT means it’s a 2-token MAT entity.
 
+# Outputs
+
 The notebook produces gzipped JSON-Lines files (one JSON document per line) for each of abstracts,
 sentences, and taggings, including taggings normalized according to the published normalizations:
 
