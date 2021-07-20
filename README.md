@@ -41,3 +41,7 @@ sentences, and taggings, including taggings normalized according to the publishe
 - [sentences](https://n2t.net/ark:57802/md1rc4y7a15): (doi: str, idx_s: int, raw_s: str) # DOI, index of sentence in abstract (0-based), “raw” sentence (imperfect pdf->txt conversion)
 - [taggings](https://n2t.net/ark:57802/md19sjz1c79): (doi: str, idx_s: int, ne: str, cat: str) # DOI, index of sentence in abstract (0-based), named entity, named-entity category (from matscholar)
 - [taggings_normalized](https://n2t.net/ark:57802/md1nytzhs82) - (doi: str, idx_s: int, ne: str, cat: str) # DOI, index of sentence in abstract (0-based), named entity (normalized via published normalizations), named-entity category (from matscholar)
+
+The notebook also produces the taggings (not normalized) in a single table (though "raw" sentence
+values are provided only one to conserve space) as a zipped CSV table
+[here](https://n2t.net/ark:57802/md122y5mw44).
