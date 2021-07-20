@@ -1,5 +1,8 @@
 # Generating the dataset
 
+Note: the dataset requires a corpus of abstracts as input. This corpus is not included here due
+to copyright concerns.
+
 Get [lbnlp](https://github.com/lbnlp/lbnlp/) working with the `matscholar_2020v1` package's `ner`
 model as follows:
 
