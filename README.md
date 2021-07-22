@@ -1,6 +1,6 @@
 # Generating the dataset
 
-Note: the dataset requires a corpus of abstracts as input. This corpus is not included here due
+Note: the dataset requires a corpus of abstracts as input. This corpus used to produce the outputs below (>14k abstracts from [Microscopy and Microanalysis](https://www.cambridge.org/core/journals/microscopy-and-microanalysis)) is not included here due
 to copyright concerns.
 
 Get [lbnlp](https://github.com/lbnlp/lbnlp/) working with the `matscholar_2020v1` package's `ner`
@@ -35,6 +35,8 @@ multi-token entities. B- means beginning, I- means inside, O means outside. So, 
 followed by I-MAT means it’s a 2-token MAT entity.
 
 # Outputs
+
+From >14k abstracts, >800k taggings were produced.
 
 The notebook produces gzipped JSON-Lines files (one JSON document per line) for each of abstracts,
 sentences, and taggings, including taggings normalized according to the published normalizations:
