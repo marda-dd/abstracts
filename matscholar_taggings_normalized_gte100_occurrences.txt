@@ -1,0 +1,855 @@
+001/855: (10538)  TEM
+002/855: ( 9309)  surface
+003/855: ( 8115)  SEM
+004/855: ( 7829)  particles
+005/855: ( 5184)  nanoparticles
+006/855: ( 4855)  layer
+007/855: ( 4627)  interface
+008/855: ( 4273)  EELS
+009/855: ( 4061)  EDS
+010/855: ( 3915)  film
+011/855: ( 3865)  FIG
+012/855: ( 3624)  substrate
+013/855: ( 3505)  c
+014/855: ( 3303)  Si
+015/855: ( 3190)  STEM
+016/855: ( 3152)  carbon
+017/855: ( 3041)  layers
+018/855: ( 2998)  microstructure
+019/855: ( 2932)  structure
+020/855: ( 2691)  composition
+021/855: ( 2579)  alloy
+022/855: ( 2578)  morphology
+023/855: ( 2499)  films
+024/855: ( 2205)  surfaces
+025/855: ( 2177)  FIB
+026/855: ( 2118)  HRTEM
+027/855: ( 2093)  EBSD
+028/855: ( 2065)  alloys
+029/855: ( 1971)  www.cambridge.org/core
+030/855: ( 1917)  Fe
+031/855: ( 1874)  electron microscopy
+032/855: ( 1830)  Pt
+033/855: ( 1758)  transmission electron microscopy
+034/855: ( 1752)  Ni
+035/855: ( 1741)  interfaces
+036/855: ( 1726)  Al
+037/855: ( 1713)  AFM
+038/855: ( 1623)  HAADF
+039/855: ( 1599)  bulk
+040/855: ( 1598)  C
+041/855: ( 1578)  silicon
+042/855: ( 1578)  graphene
+043/855: ( 1576)  nanowires
+044/855: ( 1558)  Cu
+045/855: ( 1557)  crystals
+046/855: ( 1543)  catalyst
+047/855: ( 1534)  Au
+048/855: ( 1534)  crystal
+049/855: ( 1504)  diffraction
+050/855: ( 1450)  column
+051/855: ( 1410)  clusters
+052/855: ( 1408)  oxide
+053/855: ( 1402)  coating
+054/855: ( 1401)  APT
+055/855: ( 1374)  nanoparticle
+056/855: ( 1370)  nanoscale
+057/855: ( 1344)  Ti
+058/855: ( 1343)  grain boundaries
+059/855: ( 1312)  heating
+060/855: ( 1303)  microscope
+061/855: ( 1271)  amorphous
+062/855: ( 1266)  microscopy
+063/855: ( 1258)  gold
+064/855: ( 1239)  catalysts
+065/855: ( 1229)  thin films
+066/855: ( 1212)  nanostructures
+067/855: ( 1211)  annealing
+068/855: ( 1202)  milling
+069/855: ( 1180)  glass
+070/855: ( 1166)  precipitates
+071/855: ( 1121)  substrates
+072/855: ( 1093)  cells
+073/855: ( 1087)  iron
+074/855: ( 1084)  nanotubes
+075/855: ( 1054)  thin film
+076/855: ( 1039)  oxidation
+077/855: ( 1027)  fibers
+078/855: ( 1020)  algorithm
+079/855: ( 1014)  crystalline
+080/855: ( 1012)  BSE
+081/855: ( 1005)  NPs
+082/855: (  996)  scanning electron microscopy
+083/855: (  983)  nanowire
+084/855: (  952)  XRD
+085/855: (  938)  EDX
+086/855: (  917)  mechanical properties
+087/855: (  898)  Cr
+088/855: (  892)  CL
+089/855: (  871)  powder
+090/855: (  861)  diamond
+091/855: (  854)  electrode
+092/855: (  852)  electron diffraction
+093/855: (  852)  O2Ti
+094/855: (  828)  raman
+095/855: (  826)  x-ray
+096/855: (  823)  sensitivity
+097/855: (  815)  density
+098/855: (  814)  copper
+099/855: (  805)  composite
+100/855: (  799)  steel
+101/855: (  787)  matrix
+102/855: (  784)  stability
+103/855: (  776)  O2Si
+104/855: (  775)  EPMA
+105/855: (  773)  membranes
+106/855: (  769)  graphite
+107/855: (  766)  algorithms
+108/855: (  763)  oxides
+109/855: (  755)  Li
+110/855: (  744)  Mg
+111/855: (  738)  irradiation
+112/855: (  733)  EFTEM
+113/855: (  732)  chemistry
+114/855: (  729)  microstructures
+115/855: (  717)  Co
+116/855: (  715)  accuracy
+117/855: (  710)  bacteria
+118/855: (  704)  structural
+119/855: (  702)  grain size
+120/855: (  701)  EM
+121/855: (  701)  Pd
+122/855: (  691)  annealed
+123/855: (  680)  OZn
+124/855: (  673)  crystal structure
+125/855: (  669)  grain boundary
+126/855: (  668)  Ca
+127/855: (  667)  powders
+128/855: (  666)  scanning electron microscope
+129/855: (  665)  dislocations
+130/855: (  664)  chemical composition
+131/855: (  660)  1c
+132/855: (  659)  ability
+133/855: (  655)  membrane
+134/855: (  650)  CCD
+135/855: (  646)  ADF
+136/855: (  644)  b
+137/855: (  642)  transmission electron microscope
+138/855: (  639)  nanocrystals
+139/855: (  638)  schematic
+140/855: (  638)  compositions
+141/855: (  634)  nanotube
+142/855: (  633)  cathode
+143/855: (  633)  HAADF - STEM
+144/855: (  630)  SAED
+145/855: (  618)  SIMS
+146/855: (  614)  HREM
+147/855: (  613)  Ag
+148/855: (  599)  composites
+149/855: (  596)  aluminum
+150/855: (  595)  CNTs
+151/855: (  590)  DNA
+152/855: (  589)  CBED
+153/855: (  583)  x-ray diffraction
+154/855: (  583)  Ge
+155/855: (  578)  energy resolution
+156/855: (  571)  B
+157/855: (  570)  coatings
+158/855: (  565)  scanning transmission electron microscopy
+159/855: (  564)  microstructural
+160/855: (  564)  efficiency
+161/855: (  560)  sintering
+162/855: (  560)  silica
+163/855: (  554)  O3SrTi
+164/855: (  549)  facility
+165/855: (  539)  electrodes
+166/855: (  539)  nanometer
+167/855: (  531)  electron energy loss spectroscopy
+168/855: (  529)  coated
+169/855: (  528)  GaN
+170/855: (  527)  2D
+171/855: (  526)  cubic
+172/855: (  525)  Y
+173/855: (  518)  biological
+174/855: (  517)  CNT
+175/855: (  516)  W
+176/855: (  509)  ESEM
+177/855: (  508)  wafer
+178/855: (  507)  buffer
+179/855: (  495)  hardness
+180/855: (  491)  CSi
+181/855: (  490)  particle
+182/855: (  489)  electron microscope
+183/855: (  488)  electron tomography
+184/855: (  487)  hexagonal
+185/855: (  486)  Al2O3
+186/855: (  477)  FFT
+187/855: (  477)  milled
+188/855: (  476)  WDS
+189/855: (  471)  defects
+190/855: (  469)  atomic number
+191/855: (  467)  XPS
+192/855: (  466)  3D reconstruction
+193/855: (  466)  SDD
+194/855: (  459)  silver
+195/855: (  450)  nanomaterials
+196/855: (  445)  BF
+197/855: (  443)  M.
+198/855: (  439)  atomic structure
+199/855: (  438)  *
+200/855: (  435)  particle size
+201/855: (  435)  AsGa
+202/855: (  432)  activity
+203/855: (  432)  basic energy sciences
+204/855: (  429)  porosity
+205/855: (  426)  anode
+206/855: (  425)  electronic structure
+207/855: (  424)  strength
+208/855: (  417)  alumina
+209/855: (  417)  thin
+210/855: (  415)  wire
+211/855: (  414)  steels
+212/855: (  410)  NWs
+213/855: (  407)  C.
+214/855: (  406)  3-D
+215/855: (  403)  cooling
+216/855: (  403)  morphologies
+217/855: (  402)  atom probe tomography
+218/855: (  402)  J
+219/855: (  398)  heated
+220/855: (  397)  FWHM
+221/855: (  395)  calcium
+222/855: (  392)  light microscopy
+223/855: (  390)  diffraction patterns
+224/855: (  387)  aging
+225/855: (  384)  EEL
+226/855: (  384)  tungsten
+227/855: (  384)  boron
+228/855: (  382)  bars
+229/855: (  382)  MgO
+230/855: (  381)  nanostructure
+231/855: (  378)  fig.1
+232/855: (  377)  XEDS
+233/855: (  377)  Sn
+234/855: (  375)  U.S.
+235/855: (  374)  etching
+236/855: (  371)  MoS2
+237/855: (  371)  e
+238/855: (  371)  heat treatment
+239/855: (  370)  ferrite
+240/855: (  366)  porous
+241/855: (  365)  S.
+242/855: (  364)  optical properties
+243/855: (  363)  wires
+244/855: (  360)  doped
+245/855: (  360)  semiconductor
+246/855: (  359)  glasses
+247/855: (  359)  sputtering
+248/855: (  356)  spinel
+249/855: (  356)  single crystal
+250/855: (  356)  A.
+251/855: (  355)  Mo
+252/855: (  355)  titanium
+253/855: (  354)  structures
+254/855: (  353)  sheets
+255/855: (  353)  QDs
+256/855: (  349)  capability
+257/855: (  344)  HAADF STEM
+258/855: (  343)  nickel
+259/855: (  340)  lithium
+260/855: (  339)  Cs
+261/855: (  337)  semiconductors
+262/855: (  336)  atomic force microscopy
+263/855: (  336)  nanorods
+264/855: (  335)  optical
+265/855: (  334)  electron holography
+266/855: (  333)  raman spectroscopy
+267/855: (  333)  Zr
+268/855: (  332)  Ce
+269/855: (  332)  FESEM
+270/855: (  331)  monolayer
+271/855: (  329)  3D
+272/855: (  329)  physical properties
+273/855: (  329)  magnetic properties
+274/855: (  328)  SNR
+275/855: (  326)  CeO2
+276/855: (  322)  Na
+277/855: (  321)  ETEM
+278/855: (  320)  platinum
+279/855: (  319)  Pb
+280/855: (  318)  filaments
+281/855: (  317)  spheres
+282/855: (  314)  sintered
+283/855: (  313)  Sr
+284/855: (  312)  JEOL
+285/855: (  311)  polishing
+286/855: (  309)  right
+287/855: (  306)  G.
+288/855: (  305)  carbides
+289/855: (  305)  monochromator
+290/855: (  304)  STO
+291/855: (  302)  database
+292/855: (  302)  ceramics
+293/855: (  299)  optical microscopy
+294/855: (  298)  polycrystalline
+295/855: (  298)  ELNES
+296/855: (  297)  * *
+297/855: (  297)  electron energy - loss spectroscopy
+298/855: (  294)  crystallites
+299/855: (  294)  perovskite
+300/855: (  291)  image analysis
+301/855: (  291)  beam current
+302/855: (  291)  GFP
+303/855: (  290)  diffraction pattern
+304/855: (  290)  fourier transform
+305/855: (  290)  Ga
+306/855: (  290)  spatial resolution
+307/855: (  289)  Zn
+308/855: (  288)  ceramic
+309/855: (  288)  STM
+310/855: (  287)  atomic resolution
+311/855: (  286)  ion milling
+312/855: (  286)  spectroscopy
+313/855: (  284)  signal - to - noise ratio
+314/855: (  282)  chemical
+315/855: (  280)  energy loss
+316/855: (  280)  resistance
+317/855: (  279)  DMR
+318/855: (  278)  Bi
+319/855: (  277)  CT
+320/855: (  276)  scanning transmission electron microscope
+321/855: (  276)  XRF
+322/855: (  276)  irradiated
+323/855: (  276)  olivine
+324/855: (  276)  L
+325/855: (  275)  DFT
+326/855: (  275)  heterostructures
+327/855: (  274)  F.
+328/855: (  273)  arrays
+329/855: (  272)  S
+330/855: (  272)  adhesion
+331/855: (  271)  FEI
+332/855: (  271)  sci
+333/855: (  271)  SEMs
+334/855: (  269)  NW
+335/855: (  266)  Y.
+336/855: (  263)  energy dispersive x-ray spectroscopy
+337/855: (  263)  d
+338/855: (  262)  ABF
+339/855: (  261)  CS
+340/855: (  260)  electrolyte
+341/855: (  260)  Nb
+342/855: (  260)  mechanical
+343/855: (  260)  quantum dots
+344/855: (  258)  confocal microscopy
+345/855: (  257)  FIB - SEM
+346/855: (  256)  crystallinity
+347/855: (  255)  stainless steel
+348/855: (  254)  magnification
+349/855: (  254)  martensite
+350/855: (  254)  MEMS
+351/855: (  253)  chemical analysis
+352/855: (  253)  multilayer
+353/855: (  253)  EBIC
+354/855: (  252)  LLC
+355/855: (  251)  morphological
+356/855: (  251)  lithiation
+357/855: (  251)  oxidized
+358/855: (  250)  electron backscatter diffraction
+359/855: (  249)  NSF
+360/855: (  249)  chromium
+361/855: (  248)  protocols
+362/855: (  247)  metallic
+363/855: (  247)  magnetite
+364/855: (  247)  stress
+365/855: (  246)  Ar
+366/855: (  246)  CVD
+367/855: (  246)  W.
+368/855: (  245)  electronic properties
+369/855: (  244)  -Al2O3
+370/855: (  244)  actin
+371/855: (  243)  layered
+372/855: (  242)  cathodoluminescence
+373/855: (  242)  ADF - STEM
+374/855: (  241)  bilayer
+375/855: (  241)  catalytic activity
+376/855: (  240)  LM
+377/855: (  239)  shell
+378/855: (  238)  x-ray microanalysis
+379/855: (  238)  surface area
+380/855: (  238)  rutile
+381/855: (  237)  thin layer
+382/855: (  236)  mxico
+383/855: (  236)  physical
+384/855: (  236)  single crystals
+385/855: (  235)  gallium
+386/855: (  235)  FIB milling
+387/855: (  235)  LEAP
+388/855: (  231)  PCA
+389/855: (  229)  gun
+390/855: (  228)  ToF - SIMS
+391/855: (  228)  lab
+392/855: (  228)  magnetization
+393/855: (  226)  contacts
+394/855: (  223)  electronic
+395/855: (  222)  fracture
+396/855: (  221)  conductivity
+397/855: (  221)  Ta
+398/855: (  221)  rods
+399/855: (  221)  SAD
+400/855: (  219)  carbide
+401/855: (  218)  energy dispersive spectroscopy
+402/855: (  218)  tetragonal
+403/855: (  218)  CTF
+404/855: (  218)  aged
+405/855: (  218)  fiber
+406/855: (  217)  nanofibers
+407/855: (  217)  capacity
+408/855: (  216)  austenite
+409/855: (  216)  nanocrystal
+410/855: (  216)  MSA
+411/855: (  216)  cryo-EM
+412/855: (  216)  goal
+413/855: (  215)  electrical properties
+414/855: (  215)  absorption
+415/855: (  213)  ORNL
+416/855: (  212)  catalysis
+417/855: (  211)  band gap
+418/855: (  211)  nanocrystalline
+419/855: (  210)  nanocomposites
+420/855: (  210)  micron
+421/855: (  209)  elemental composition
+422/855: (  208)  anatase
+423/855: (  208)  atomic scale
+424/855: (  208)  stoichiometry
+425/855: (  207)  PSF
+426/855: (  207)  electron irradiation
+427/855: (  207)  oxygen vacancies
+428/855: (  206)  Ru
+429/855: (  205)  NIST
+430/855: (  205)  D.
+431/855: (  204)  dendrites
+432/855: (  204)  sapphire
+433/855: (  203)  california
+434/855: (  202)  ECCI
+435/855: (  202)  surface roughness
+436/855: (  201)  electron beam
+437/855: (  201)  x-ray maps
+438/855: (  201)  alloying
+439/855: (  200)  nanostructured
+440/855: (  200)  NiO
+441/855: (  200)  stacking faults
+442/855: (  200)  plastic deformation
+443/855: (  199)  high resolution TEM
+444/855: (  199)  implantation
+445/855: (  199)  FTIR
+446/855: (  199)  sheet
+447/855: (  198)  fluorescence
+448/855: (  197)  wafers
+449/855: (  197)  platelets
+450/855: (  197)  1D
+451/855: (  196)  multilayers
+452/855: (  196)  collagen
+453/855: (  196)  Mn
+454/855: (  196)  TEMs
+455/855: (  195)  nano
+456/855: (  195)  surface morphology
+457/855: (  194)  melting
+458/855: (  193)  microstructural features
+459/855: (  193)  Sb
+460/855: (  193)  thermal stability
+461/855: (  193)  FEM
+462/855: (  192)  oxidation state
+463/855: (  192)  cobalt
+464/855: (  192)  fracture surface
+465/855: (  192)  gatan
+466/855: (  191)  fluorescence microscopy
+467/855: (  191)  B.
+468/855: (  191)  DPC
+469/855: (  190)  Cl
+470/855: (  190)  STEM image
+471/855: (  189)  P.
+472/855: (  189)  SWNT
+473/855: (  189)  BaO3Ti
+474/855: (  188)  nanoclusters
+475/855: (  188)  grain structure
+476/855: (  188)  3D structure
+477/855: (  187)  vacancies
+478/855: (  187)  uranium
+479/855: (  187)  GB
+480/855: (  187)  IR
+481/855: (  187)  SPM
+482/855: (  186)  monolayers
+483/855: (  186)  STEM - EELS
+484/855: (  186)  La
+485/855: (  186)  filter
+486/855: (  185)  E.
+487/855: (  184)  electrical
+488/855: (  184)  magnetic
+489/855: (  184)  ion beam ( FIB
+490/855: (  183)  heterostructure
+491/855: (  183)  ceria
+492/855: (  182)  SDDs
+493/855: (  182)  FCC
+494/855: (  182)  nanobelts
+495/855: (  181)  CLEM
+496/855: (  181)  electron beam irradiation
+497/855: (  181)  crystal structures
+498/855: (  181)  silicon nitride
+499/855: (  181)  monoclinic
+500/855: (  181)  1B
+501/855: (  180)  contact
+502/855: (  180)  cross-sectional TEM
+503/855: (  179)  STEM imaging
+504/855: (  179)  feasible
+505/855: (  179)  phosphorus
+506/855: (  178)  solar cells
+507/855: (  177)  Cd
+508/855: (  177)  surface layer
+509/855: (  177)  lattice parameters
+510/855: (  177)  L.
+511/855: (  176)  high - resolution TEM
+512/855: (  176)  AES
+513/855: (  175)  STXM
+514/855: (  175)  F
+515/855: (  175)  optical microscope
+516/855: (  174)  DE-AC02
+517/855: (  174)  Si(Li
+518/855: (  173)  scanning
+519/855: (  172)  x-ray mapping
+520/855: (  172)  antibodies
+521/855: (  172)  SWNTs
+522/855: (  172)  quantitative analysis
+523/855: (  172)  figure 1c
+524/855: (  171)  CLSM
+525/855: (  170)  ice
+526/855: (  170)  illustrates
+527/855: (  170)  ATP
+528/855: (  170)  sensor
+529/855: (  170)  sensors
+530/855: (  170)  S)TEM
+531/855: (  169)  eV
+532/855: (  169)  cryo - electron microscopy
+533/855: (  169)  h-BN
+534/855: (  168)  pixel size
+535/855: (  168)  NSi
+536/855: (  168)  amorphous layer
+537/855: (  168)  Ba
+538/855: (  168)  statistics
+539/855: (  167)  beam energy
+540/855: (  167)  ClNa
+541/855: (  167)  flakes
+542/855: (  167)  sciences
+543/855: (  167)  tomographic reconstruction
+544/855: (  167)  foil
+545/855: (  167)  microstructural characterization
+546/855: (  166)  O2Zr
+547/855: (  166)  AlN
+548/855: (  166)  failure analysis
+549/855: (  165)  solid
+550/855: (  165)  grinding
+551/855: (  165)  transparent
+552/855: (  165)  crystal orientation
+553/855: (  164)  Fe3O4
+554/855: (  164)  defect
+555/855: (  164)  twin boundaries
+556/855: (  164)  PNNL
+557/855: (  164)  ductility
+558/855: (  164)  NTi
+559/855: (  164)  fcc
+560/855: (  163)  reconstructions
+561/855: (  163)  Ir
+562/855: (  163)  XRM
+563/855: (  163)  grids
+564/855: (  163)  semiconductor devices
+565/855: (  163)  camera
+566/855: (  163)  PL
+567/855: (  162)  4D-STEM
+568/855: (  162)  battery
+569/855: (  161)  silicate
+570/855: (  161)  crystallographic orientation
+571/855: (  161)  CdS
+572/855: (  161)  FIG.1
+573/855: (  161)  HIM
+574/855: (  160)  orthorhombic
+575/855: (  160)  ultrastructure
+576/855: (  159)  thermal conductivity
+577/855: (  159)  FRET
+578/855: (  159)  surface structure
+579/855: (  159)  high resolution electron microscopy
+580/855: (  159)  mobility
+581/855: (  158)  cryo - TEM
+582/855: (  157)  ZLP
+583/855: (  155)  inelastic scattering
+584/855: (  155)  conductive
+585/855: (  154)  transmission
+586/855: (  154)  fig.2
+587/855: (  154)  light microscope
+588/855: (  154)  schematic diagram
+589/855: (  154)  CO
+590/855: (  153)  come
+591/855: (  152)  GeSi
+592/855: (  152)  * * *
+593/855: (  151)  PED
+594/855: (  151)  N4Si3
+595/855: (  151)  Hf
+596/855: (  151)  global
+597/855: (  151)  table
+598/855: (  151)  DOE
+599/855: (  151)  lattice fringes
+600/855: (  151)  foils
+601/855: (  151)  apatite
+602/855: (  150)  HOLZ
+603/855: (  149)  elemental mapping
+604/855: (  149)  domain walls
+605/855: (  149)  resistivity
+606/855: (  149)  solid solution
+607/855: (  148)  ion irradiation
+608/855: (  148)  DF
+609/855: (  148)  PMMA
+610/855: (  148)  superalloy
+611/855: (  147)  lattice mismatch
+612/855: (  146)  dislocation
+613/855: (  146)  g
+614/855: (  146)  mitochondria
+615/855: (  146)  PS
+616/855: (  145)  indium
+617/855: (  145)  FE - SEM
+618/855: (  145)  probe size
+619/855: (  145)  living cells
+620/855: (  145)  carbonaceous
+621/855: (  145)  sputtered
+622/855: (  144)  QD
+623/855: (  144)  selectivity
+624/855: (  144)  TABLE
+625/855: (  144)  probe current
+626/855: (  144)  zinc
+627/855: (  144)  bright field TEM
+628/855: (  144)  R.
+629/855: (  143)  PLD
+630/855: (  143)  electrical conductivity
+631/855: (  143)  AEM
+632/855: (  142)  MBE
+633/855: (  142)  PC
+634/855: (  141)  illinois
+635/855: (  141)  magnesium
+636/855: (  140)  DTEM
+637/855: (  140)  ET
+638/855: (  140)  roughness
+639/855: (  140)  GBs
+640/855: (  140)  YSZ
+641/855: (  140)  density functional theory
+642/855: (  140)  endothelial cells
+643/855: (  139)  electron transparent
+644/855: (  139)  elemental analysis
+645/855: (  139)  anisotropy
+646/855: (  138)  radiation damage
+647/855: (  138)  CsN
+648/855: (  137)  J.
+649/855: (  137)  electron microscopes
+650/855: (  137)  reliability
+651/855: (  137)  z
+652/855: (  137)  OM
+653/855: (  136)  cilia
+654/855: (  136)  zirconia
+655/855: (  136)  chromatic aberration
+656/855: (  136)  phosphate
+657/855: (  136)  golgi
+658/855: (  136)  titania
+659/855: (  135)  electron microprobe
+660/855: (  135)  fine structure
+661/855: (  135)  corrosion resistance
+662/855: (  135)  3D reconstructions
+663/855: (  135)  correlative microscopy
+664/855: (  135)  zeolite
+665/855: (  135)  single
+666/855: (  135)  1
+667/855: (  134)  lattice parameter
+668/855: (  134)  cancer cells
+669/855: (  134)  CMOS
+670/855: (  134)  disks
+671/855: (  134)  TOF - SIMS
+672/855: (  134)  refractive index
+673/855: (  133)  high - resolution transmission electron microscopy
+674/855: (  133)  chemical properties
+675/855: (  133)  GPA
+676/855: (  133)  rod
+677/855: (  133)  shells
+678/855: (  133)  FEG
+679/855: (  133)  XAS
+680/855: (  133)  1C
+681/855: (  132)  cc
+682/855: (  132)  AM
+683/855: (  132)  bandgap
+684/855: (  131)  nanorod
+685/855: (  131)  FePt
+686/855: (  131)  iron oxide
+687/855: (  131)  Fe2O3
+688/855: (  131)  eutectic
+689/855: (  130)  SEM - EDS
+690/855: (  130)  GIF
+691/855: (  130)  structural characterization
+692/855: (  130)  EDXS
+693/855: (  130)  endoplasmic reticulum
+694/855: (  130)  B6La
+695/855: (  129)  HR - TEM
+696/855: (  129)  chemical vapor deposition
+697/855: (  129)  flexibility
+698/855: (  129)  reactivity
+699/855: (  128)  beam electron diffraction
+700/855: (  128)  HfO2
+701/855: (  128)  GmbH
+702/855: (  127)  STEM - HAADF
+703/855: (  127)  atomic
+704/855: (  127)  OIM
+705/855: (  127)  buffer layer
+706/855: (  126)  SI
+707/855: (  126)  drying
+708/855: (  126)  area electron diffraction
+709/855: (  126)  ASEM
+710/855: (  125)  GaInN
+711/855: (  125)  SXES
+712/855: (  125)  NanoSIMS
+713/855: (  125)  2-D
+714/855: (  125)  structural analysis
+715/855: (  125)  heat treated
+716/855: (  125)  calcination
+717/855: (  124)  fig.1a
+718/855: (  124)  superlattices
+719/855: (  124)  dried
+720/855: (  124)  contaminants
+721/855: (  123)  surface topography
+722/855: (  123)  cortex
+723/855: (  123)  crystalline structure
+724/855: (  123)  point defects
+725/855: (  123)  hematite
+726/855: (  123)  O2Sn
+727/855: (  123)  T.
+728/855: (  122)  dots
+729/855: (  122)  XANES
+730/855: (  122)  superlattice
+731/855: (  121)  x-ray microscopy
+732/855: (  121)  CIMAV
+733/855: (  121)  histogram
+734/855: (  120)  osmium
+735/855: (  120)  PLM
+736/855: (  120)  elemental maps
+737/855: (  119)  scintillator
+738/855: (  119)  MA
+739/855: (  119)  BN
+740/855: (  119)  colors
+741/855: (  118)  sandia
+742/855: (  118)  MC
+743/855: (  118)  ferroelectric
+744/855: (  118)  mechanical polishing
+745/855: (  118)  x-ray fluorescence
+746/855: (  118)  EBID
+747/855: (  117)  dielectric
+748/855: (  117)  PP
+749/855: (  117)  atomic level
+750/855: (  117)  stacking fault
+751/855: (  117)  plates
+752/855: (  117)  FIG.2
+753/855: (  116)  YBCO
+754/855: (  116)  x-ray analysis
+755/855: (  116)  lattice spacing
+756/855: (  116)  MWCNTs
+757/855: (  116)  collection efficiency
+758/855: (  115)  cryo - electron tomography
+759/855: (  115)  IPF
+760/855: (  115)  insulin
+761/855: (  114)  bacterium
+762/855: (  114)  nanocomposite
+763/855: (  114)  cathodes
+764/855: (  114)  secondary electron
+765/855: (  114)  casting
+766/855: (  114)  calcined
+767/855: (  113)  nanocubes
+768/855: (  113)  solid angle
+769/855: (  113)  welding
+770/855: (  113)  MWCNT
+771/855: (  113)  grain sizes
+772/855: (  113)  carbonate
+773/855: (  112)  Cu2O
+774/855: (  112)  periodicity
+775/855: (  112)  twin boundary
+776/855: (  112)  Gd
+777/855: (  112)  homogeneity
+778/855: (  111)  HPF
+779/855: (  111)  cement
+780/855: (  111)  secondary ion mass spectrometry
+781/855: (  111)  ECM
+782/855: (  111)  handling
+783/855: (  111)  a-c
+784/855: (  111)  ED
+785/855: (  110)  electron micrographs
+786/855: (  110)  FIM
+787/855: (  110)  zircon
+788/855: (  109)  ion implantation
+789/855: (  109)  electrostatic potential
+790/855: (  109)  nano-particles
+791/855: (  108)  hydroxyapatite
+792/855: (  108)  mechanical alloying
+793/855: (  108)  EBSP
+794/855: (  108)  structural defects
+795/855: (  108)  principal component analysis
+796/855: (  108)  high resolution transmission electron microscopy
+797/855: (  108)  SE
+798/855: (  108)  palladium
+799/855: (  107)  looking
+800/855: (  107)  angle annular dark field
+801/855: (  107)  atomic structures
+802/855: (  107)  SEI
+803/855: (  107)  silicates
+804/855: (  106)  DQE
+805/855: (  106)  electronic devices
+806/855: (  106)  interaction volume
+807/855: (  106)  assistance
+808/855: (  106)  figure 1
+809/855: (  105)  working distance
+810/855: (  105)  bright field
+811/855: (  105)  CO2
+812/855: (  105)  NASA
+813/855: (  105)  genome
+814/855: (  105)  molecular beam epitaxy
+815/855: (  105)  wear
+816/855: (  105)  BCC
+817/855: (  105)  BFO
+818/855: (  104)  nanosheets
+819/855: (  104)  manganese
+820/855: (  104)  transmission electron microscopes
+821/855: (  103)  tin
+822/855: (  103)  spatial
+823/855: (  103)  ribbon
+824/855: (  103)  semiconductor industry
+825/855: (  103)  dentin
+826/855: (  103)  ALD
+827/855: (  103)  monte carlo simulations
+828/855: (  103)  electron probe
+829/855: (  102)  TEAM
+830/855: (  102)  high - resolution imaging
+831/855: (  102)  ageing
+832/855: (  102)  schematic illustration
+833/855: (  102)  rolling
+834/855: (  101)  slice
+835/855: (  101)  Cryo-EM
+836/855: (  101)  solidification
+837/855: (  101)  tubulin
+838/855: (  101)  area diffraction
+839/855: (  101)  Pr
+840/855: (  101)  densities
+841/855: (  100)  spectroscopic
+842/855: (  100)  O3Y2
+843/855: (  100)  NBD
+844/855: (  100)  x-ray photoelectron spectroscopy
+845/855: (  100)  liquid cell
+846/855: (  100)  RNA
+847/855: (  100)  LSMO
+848/855: (  100)  CTEM
+849/855: (  100)  dielectric function
+850/855: (  100)  misfit dislocations
+851/855: (  100)  multivariate statistical analysis
+852/855: (  100)  intermetallic
+853/855: (  100)  STEM mode
+854/855: (  100)  microhardness
+855/855: (  100)  cryo-ET
